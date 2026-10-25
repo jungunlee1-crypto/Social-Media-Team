@@ -1,6 +1,6 @@
 # Content Pillars
 
-**As of:** 25 Oct 2026. **Status:** proposal for owner approval. The draft Nov 1–14 calendar already uses "Community"; the others are proposed.
+**As of:** 25 Oct 2026. **Status:** approved by the owner (Angela Lee), 25 Oct 2026.
 
 | Pillar | Share (proposed) | What it is | Examples |
 |---|---|---|---|
