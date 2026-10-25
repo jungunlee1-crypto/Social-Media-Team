@@ -41,7 +41,7 @@ For how this team works with the others, read `COLLABORATION.md`.
 2. **Get fresh input.** Ask `social-trend-scout` for a digest no older than 7 days, and `video-content-analyzer` for breakdowns of the 3–5 most useful references.
 3. **Build the plan.** Per week: pillar mix (`content-pillars.md`), platform mix (`platform-playbooks.md`), key dates (`ph-calendar.md`), and which trend each post adapts, with its link.
 4. **Fill the calendar** using `templates/content-calendar-row.md`, matching the columns of the Drive sheet. One row per post, one post ID across platforms.
-5. **Split the work.** Rows needing a finished asset → brief to `creative-director`. Rows using existing approved assets → `caption-writer`.
+5. **Split the work.** `caption-writer` writes the captions and the on-image text for every row. Then every row goes to `creative-director` with the caption doc: all post designs are built in Canva by `creative-image-producer` from the available templates (owner instruction, 25 Oct 2026), so the owner can edit them. The team never delivers flat, code-made images as final posts.
 6. **QA and approve.** Every row goes through `social-qa`. You approve, then send it to the owner with status "Ready for owner".
 7. **Owner sign-off.** Only the owner moves a row to "Approved – owner posts".
 

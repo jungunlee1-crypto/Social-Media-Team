@@ -19,7 +19,7 @@ Purposeful, not loud. The athlete is the hero, not the product. Plain words, no 
 If you aren't confident a Tagalog or Taglish line sounds natural, mark it **Needs native review** instead of guessing.
 
 ## For each calendar row, write
-1. Hook (on-screen text), max 8 words
+1. Hook (on-screen text), max 8 words. This is the on-image text the Creative Team puts into the Canva design word for word, so write it exactly as it should appear
 2. Caption in English, Taglish and Tagalog, sized to the platform
 3. CTA that matches the row (save, follow, comment a question, shop link once live)
 4. 3–5 hashtags: brand, category, Philippines. No banned or unrelated trending tags.

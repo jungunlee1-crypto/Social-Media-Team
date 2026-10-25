@@ -11,7 +11,7 @@ The Social Media Team listens to the platforms and plans organic content. It pla
 | Organic content plan and calendar | **Social Media** (`content-planner`) | Owns it |
 | Captions, on-screen hooks, hashtags, X posts | **Social Media** (`caption-writer`) | Owns organic copy. Creative owns headlines, taglines and supers inside its assets |
 | Finished visuals and video (commercials, key visuals, social cut-downs, statics) | Creative Team (`creative-director`) | Sends a brief from the content plan; receives approved organic versions |
-| Simple native posts (text posts, polls, Stories with existing approved assets) | **Social Media** | Plans them; uses only Creative-approved or owner-supplied visuals |
+| Post designs: every feed post, carousel, Story and TikTok photo slide | Creative Team (`creative-image-producer`), built in Canva from the available templates so the owner can edit them (Creative's `canva-playbook.md`) | Sends plan rows + the approved caption doc (with each post's on-image text); reviews the Canva designs before the owner |
 | Comment and DM replies | **Social Media** drafts (`community-manager`); owner sends | Owns the drafts and the escalation flags |
 | Micro-influencer seeding list and outreach drafts | **Social Media** (`influencer-scout`) | Owns it; the owner sends every message and approves every gift |
 | Paid social, boosting, ad accounts | Paid Ads (`/ads`) | Flags organic posts that beat their benchmark as boost candidates |
