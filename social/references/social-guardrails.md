@@ -49,7 +49,7 @@ Only use sounds from the platform's commercial library on a business account, or
 
 ## 8. Regulatory (Philippines first)
 
-Until the owner confirms the Philippine FDA status of the tape in writing (see Creative guardrails §9), label every post draft "Draft, not cleared for public release" and keep claims to the "allowed without asking" list.
+**Owner decision (Angela Lee, 25 Oct 2026):** Provex tape is marketed as athletic support, not as a medical product, so no Philippine FDA clearance is sought and posts don't carry a "not cleared" label. That decision holds only while the content stays support-and-performance: the claims rules in §2 (no treating, healing, preventing injury or pain, no "FDA approved", no medical advice) are what keep it true. A post that drifts into medical claims is Blocked, not relabelled.
 
 ## 9. Learning and self-updating
 

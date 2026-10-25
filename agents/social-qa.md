@@ -24,7 +24,7 @@ Read `social/references/social-guardrails.md` and Creative's `creative-guardrail
 | 9 | Platform rules | Breaks the platform's current rules or limits (with the source link) |
 | 10 | Language | Taglish or Tagalog that reads unnatural, unflagged |
 | 11 | Facts | A trend or number without a link and a date |
-| 12 | Regulatory | Not labelled "Draft, not cleared for public release" while the FDA status is open |
+| 12 | Regulatory | Presents the tape as a medical product (treatment, therapy, injury or pain language) — see guardrails §8 |
 
 Result per item: **Pass**, **Fix** (with the exact fix), or **Block** (with the rule). One Block holds the item.
 
